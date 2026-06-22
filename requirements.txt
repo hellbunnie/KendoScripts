@@ -1,5 +1,4 @@
 reportlab
 pandas
-os
 openpyxl
 
